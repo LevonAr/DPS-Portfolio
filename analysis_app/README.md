@@ -7,10 +7,10 @@ Analysis App is a ...
 +-- [Admin Dashboard](#getting-started-with-markdown)
 
 
-+-- Admin Dashboard
++-- [Admin Dashboard](#getting-started-with-markdown)
 \
 &nbsp;&nbsp;&nbsp;&nbsp;+-- Project Dashboard
-\    
+\
 &nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+-- Project Data (Feat)
 \
 &nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+-- Project Data (Feat)
