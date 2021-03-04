@@ -3,7 +3,7 @@
 Analysis App is a ...
 
 
-.
+
 +-- [Admin Dashboard](#getting-started-with-markdown)
 
 +-- Admin Dashboard
