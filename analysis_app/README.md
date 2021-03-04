@@ -26,13 +26,13 @@ Analysis App is a ...
 .
 └── Admin Dashboard
 \
-&nbsp;&nbsp;&nbsp;&nbsp;├── Project Dashboard
+&nbsp;&nbsp;&nbsp;&nbsp;|── Project Dashboard
 \    
-&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├── Project Data (Feat)
+&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;|── Project Data (Feat)
 \
-&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├── Project Data (Feat)
+&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;|── Project Data (Feat)
 \
-&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├── Project Data (Feat)
+&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;|── Project Data (Feat)
 \
 &nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── Page-By-Page Analysis Dashboard
 \
