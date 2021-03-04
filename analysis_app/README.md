@@ -38,7 +38,7 @@ Analysis App is a ...
 
 
 
-## Admin Dashboard
+# Admin Dashboard
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
