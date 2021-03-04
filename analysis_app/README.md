@@ -26,31 +26,31 @@ Analysis App is a ...
 .
 └── Admin Dashboard
 \
-    ├── Project Dashboard
+&nbsp;&nbsp;&nbsp;&nbsp;├── Project Dashboard
 \    
-    │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── Project Data (Feat)
+&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├── Project Data (Feat)
 \
-    │   ├── Project Data (Feat)
+&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├── Project Data (Feat)
 \
-    │   └── Project Data (Feat)
+&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├── Project Data (Feat)
 \
-    │       └── Page-By-Page Analysis Dashboard
+&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── Page-By-Page Analysis Dashboard
 \
-    │           ├── Summary(Feat)
+&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── Summary(Feat)
 \
-    │           ├── Summary(Feat)
+&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── Summary(Feat)
 \
-    │           ├── Summary(Feat)
+&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── Summary(Feat)
 \
-    │           ├── Summary(Feat)
+&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── Summary(Feat)
 \
-    │           ├── Summary(Feat)
+&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── Summary(Feat)
 \
-    │           ├── Summary(Feat)
+&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── Summary(Feat)
 \
-    │           └── Summary(Feat)
+&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── Summary(Feat)
 \
-    └── Monitor Dashboard
+&nbsp;&nbsp;&nbsp;&nbsp;└── Monitor Dashboard
 
 
 
