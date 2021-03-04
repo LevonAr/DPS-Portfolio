@@ -7,7 +7,7 @@ Analysis App is a ...
 +-- [Admin Dashboard](#getting-started-with-markdown)
 
 
-+-- [Anchor links](#anchor-links)
++-- [Admin Dashboard](#admin-dashboard)
 \
 &nbsp;&nbsp;&nbsp;&nbsp;+-- Project Dashboard
 \
@@ -38,7 +38,7 @@ Analysis App is a ...
 
 
 
-## Anchor links
+## Admin Dashboard
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
