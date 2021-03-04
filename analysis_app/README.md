@@ -35,15 +35,7 @@ Analysis App is a ...
 
 
 # Admin Dashboard
-![alt text](https://github.com/LevonAr/DPS-Portfolio/blob/main/analysis_app/Admin_Dashboard.png)
-
-https://github.com/LevonAr/DPS-Portfolio/blob/main/analysis_app/Admin_Dashboard.png
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
-```bash
-pip install foobar
-```
+![Admin Dashboard](https://github.com/LevonAr/DPS-Portfolio/blob/main/analysis_app/Admin_Dashboard.png)
 
 ## Project Dashboard
 
