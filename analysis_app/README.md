@@ -3,22 +3,10 @@
 Analysis App is a ...
 
 
-```
-└── Admin Dashboard (#getting-started-with-markdown)
-    ├── Project Dashboard
-    │   ├── Project Data (Feat)
-    │   ├── Project Data (Feat)
-    │   └── Project Data (Feat)
-    │       └── Page-By-Page Analysis Dashboard
-    │           ├── Summary(Feat)
-    │           ├── Summary(Feat)
-    │           ├── Summary(Feat)
-    │           ├── Summary(Feat)
-    │           ├── Summary(Feat)
-    │           ├── Summary(Feat)
-    │           └── Summary(Feat)
-    └── Monitor Dashboard
-```
+
++-- Admin Dashboard (#getting-started-with-markdown)
+
+
 
 
 ## Admin Dashboard (#getting-started-with-markdown)
