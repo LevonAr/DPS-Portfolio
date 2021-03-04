@@ -78,7 +78,7 @@ foobar.pluralize('word') # returns 'words'
 foobar.pluralize('goose') # returns 'geese'
 foobar.singularize('phenomena') # returns 'phenomenon'
 ```
-### Page by Page Analysis Dashboard
+## Page by Page Analysis Dashboard
 
 ```python
 import foobar
