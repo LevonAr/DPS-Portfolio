@@ -28,7 +28,7 @@ Analysis App is a ...
 \
     ├── Project Dashboard
 \    
-    │→├── Project Data (Feat)
+    │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── Project Data (Feat)
 \
     │   ├── Project Data (Feat)
 \
