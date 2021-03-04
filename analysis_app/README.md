@@ -23,6 +23,36 @@ Analysis App is a ...
     +-- Monitor Dashboard
 
 
+.
+└── Admin Dashboard
+\
+    ├── Project Dashboard
+\    
+    │   ├── Project Data (Feat)
+\
+    │   ├── Project Data (Feat)
+\
+    │   └── Project Data (Feat)
+\
+    │       └── Page-By-Page Analysis Dashboard
+\
+    │           ├── Summary(Feat)
+\
+    │           ├── Summary(Feat)
+\
+    │           ├── Summary(Feat)
+\
+    │           ├── Summary(Feat)
+\
+    │           ├── Summary(Feat)
+\
+    │           ├── Summary(Feat)
+\
+    │           └── Summary(Feat)
+\
+    └── Monitor Dashboard
+
+
 
 
 
