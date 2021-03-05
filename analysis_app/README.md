@@ -39,13 +39,8 @@ Analysis App is a ...
 
 ## Project Dashboard
 
-```python
-import foobar
+![Project Dashboard](https://github.com/LevonAr/DPS-Portfolio/blob/main/analysis_app/Project_Dashboard.png)
 
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
 ### Project Data
 
 ```python
