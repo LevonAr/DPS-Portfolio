@@ -70,13 +70,9 @@ foobar.singularize('phenomena') # returns 'phenomenon'
 ```
 ## Page by Page Analysis Dashboard
 
-```python
-import foobar
+![Page By Page Dashboard](https://github.com/LevonAr/DPS-Portfolio/blob/main/analysis_app/PageByPage_Dashboard.png )
 
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
+
 #### SEO Tab
 
 ```python
