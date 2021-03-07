@@ -35,6 +35,8 @@ Analysis App is a ...
 
 
 # Admin Dashboard
+Short Dashboard Desc.
+
 ![Admin Dashboard](https://github.com/LevonAr/DPS-Portfolio/blob/main/analysis_app/Admin_Dashboard.png)
 
 ## Project Dashboard
