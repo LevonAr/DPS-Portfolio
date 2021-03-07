@@ -40,8 +40,9 @@ Short Dashboard Desc.
 ![Admin Dashboard](https://github.com/LevonAr/DPS-Portfolio/blob/main/analysis_app/Admin_Dashboard.png)
 
 ## Project Dashboard
-
+Short Desc. 
 ![Project Dashboard](https://github.com/LevonAr/DPS-Portfolio/blob/main/analysis_app/Project_Dashboard.png)
+Short Desc.
 ![Project Dashboard Continued](https://github.com/LevonAr/DPS-Portfolio/blob/main/analysis_app/Project_Dashboard_Continued.png)
 
 ### Project Data
@@ -63,11 +64,14 @@ foobar.pluralize('goose') # returns 'geese'
 foobar.singularize('phenomena') # returns 'phenomenon'
 ```
 ### Project Timeline Filter
+Short Desc.
 
 ![Time Comparison GIF](https://github.com/LevonAr/DPS-Portfolio/blob/main/analysis_app/Time_Comp_Trim.mov.gif)
 
 
 ## Page by Page Analysis Dashboard
+
+Short Desc.
 
 ![Page By Page Dashboard](https://github.com/LevonAr/DPS-Portfolio/blob/main/analysis_app/PageByPage_Dashboard.png )
 
