@@ -61,13 +61,9 @@ foobar.singularize('phenomena') # returns 'phenomenon'
 ```
 ### Project Timeline Filter
 
-```python
-import foobar
+![Time Comparison GIF](https://github.com/LevonAr/DPS-Portfolio/blob/main/analysis_app/Time_Comp_Trim.mov.gif)
 
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
+
 ## Page by Page Analysis Dashboard
 
 ![Page By Page Dashboard](https://github.com/LevonAr/DPS-Portfolio/blob/main/analysis_app/PageByPage_Dashboard.png )
