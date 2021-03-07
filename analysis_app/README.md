@@ -43,7 +43,7 @@ Short Dashboard Desc.
 Short Desc. 
 
 ![Project Dashboard](https://github.com/LevonAr/DPS-Portfolio/blob/main/analysis_app/Project_Dashboard.png)
-Short Desc.
+Project Dashboard (continued)
 
 ![Project Dashboard Continued](https://github.com/LevonAr/DPS-Portfolio/blob/main/analysis_app/Project_Dashboard_Continued.png)
 
