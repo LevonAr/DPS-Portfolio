@@ -41,8 +41,10 @@ Short Dashboard Desc.
 
 ## Project Dashboard
 Short Desc. 
+
 ![Project Dashboard](https://github.com/LevonAr/DPS-Portfolio/blob/main/analysis_app/Project_Dashboard.png)
 Short Desc.
+
 ![Project Dashboard Continued](https://github.com/LevonAr/DPS-Portfolio/blob/main/analysis_app/Project_Dashboard_Continued.png)
 
 ### Project Data
@@ -70,7 +72,6 @@ Short Desc.
 
 
 ## Page by Page Analysis Dashboard
-
 Short Desc.
 
 ![Page By Page Dashboard](https://github.com/LevonAr/DPS-Portfolio/blob/main/analysis_app/PageByPage_Dashboard.png )
