@@ -47,73 +47,48 @@ Project Dashboard (continued)
 
 ![Project Dashboard Continued](https://github.com/LevonAr/DPS-Portfolio/blob/main/analysis_app/Project_Dashboard_Continued.png)
 
-
 ### Project Timeline Filter
 Short Desc.
 
 ![Time Comparison GIF](https://github.com/LevonAr/DPS-Portfolio/blob/main/analysis_app/Time_Comp_Trim.mov.gif)
-
 
 ## Page by Page Analysis Dashboard
 Short Desc.
 
 ![Page By Page Dashboard](https://github.com/LevonAr/DPS-Portfolio/blob/main/analysis_app/PageByPage_Dashboard.png )
 
-
 #### SEO Tab
+Short Desc.
 
-```python
-import foobar
+![SEO Tab GIF](https://github.com/LevonAr/DPS-Portfolio/blob/main/analysis_app/SEO_Tab_Trim.mov.gif)
 
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
 #### Link Display Tab
+Short Desc.
 
-```python
-import foobar
+![Link Display Tab GIF](https://github.com/LevonAr/DPS-Portfolio/blob/main/analysis_app/Link_Display_Tab_Trim.mov.gif)
 
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
 #### Extraction Tab
+Short Desc.
 
-```python
-import foobar
+Functionality 1 Short Desc.
+![Extraction Tab Part 1 GIF](https://github.com/LevonAr/DPS-Portfolio/blob/main/analysis_app/Extraction_Tab_Trim_Part1.mov.gif)
+Functionality 2 Short Desc.
+![Extraction Tab Part 2 GIF](https://github.com/LevonAr/DPS-Portfolio/blob/main/analysis_app/Extraction_Tab_Trim_Part2.mov.gif)
 
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
 #### Traffic Tab
+Short Desc.
 
-```python
-import foobar
+![Traffic Tab GIF](https://github.com/LevonAr/DPS-Portfolio/blob/main/analysis_app/Traffic_Tab_Trim.mov.gif)
 
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
 #### Readability Tab
+Short Desc.
 
-```python
-import foobar
+![Readability Tab GIF](https://github.com/LevonAr/DPS-Portfolio/blob/main/analysis_app/Readability_Tab_Trim.mov.gif)
 
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
 #### Notes Tab
+Short Desc.
 
-```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
+![Notes GIF](https://github.com/LevonAr/DPS-Portfolio/blob/main/analysis_app/Notes_Tab_Trim.mov.gif)
 
 ### Monitor Dashboard
 
